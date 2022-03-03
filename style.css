@@ -1,0 +1,43 @@
+body {
+background: rgb(89,0,255);
+background: linear-gradient(266deg, rgba(89,0,255,1) 0%, rgba(32,230,231,1) 45%, rgba(255,179,0,1) 100%);
+font-family: Marker Felt, fantasy;
+}
+h2{
+font-size: 80px;
+margin-bottom: 10px;
+}
+img{
+margin-top: 10px;
+margin-bottom: 30px;
+}
+li{
+font-size: 40px;
+font-family: Marker Felt, fantasy;
+}
+h4{
+font-size: 50px;
+font-family: Marker Felt, fantasy;
+}
+h3{
+font-family: Marker Felt, fantasy;
+}
+button {
+  background-color: #46b349;
+  color: #black;
+  border: 0px;
+  border-radius: 5px;
+  width: 100px;
+  height: 30px;
+}
+button:hover {
+  background-color: #46b349;
+  transition: 2s;
+  cursor : pointer;
+}
+footer {
+
+  text-align: center;
+  background-color: DarkGray;
+  color: Black;
+}
