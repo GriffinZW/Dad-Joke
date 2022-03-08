@@ -6,6 +6,7 @@ font-family: Marker Felt, fantasy;
 h2{
 font-size: 80px;
 margin-bottom: 10px;
+text-shadow: 2px 2px #ffffff;
 }
 img{
 margin-top: 10px;
@@ -18,9 +19,12 @@ font-family: Marker Felt, fantasy;
 h4{
 font-size: 50px;
 font-family: Marker Felt, fantasy;
+text-shadow: 2px 2px #ff0000;
 }
 h3{
 font-family: Marker Felt, fantasy;
+color: black;
+text-shadow: 2px 2px #ffffff;
 }
 button {
   background-color: #46b349;
@@ -40,6 +44,6 @@ footer {
   padding: 10px 10px 0px 10px;
   bottom: 0;
   width: 100%;
-  background-color: #515966;
-  color: Black;
+  background-color: #595757;
+  color: black;
 }
